@@ -1,0 +1,11 @@
+spring MVC fot the web application
+Spring Data for data access
+Spring Security for authentication and authorization
+
+Spring Core's Inversion of Control (IoC) container
+
+API Contracts
+JSON is the most popular by web apps  XML and YAML 
+
+Command:
+init = ./gradlew build 
